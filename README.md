@@ -9,12 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sukhmangill977](https://github.com/Sukhmangill977)
 
-- 💬 Ask me about **html,css,c,c++,python**
+- 💬 Ask me about **html,css,c,c++,python,photography**
 
 - 📫 How to reach me **sukhmangill977@gmail.com**
 
 - 📄 Know about my experiences [http://classybaige.rf.gd/?i=1](http://classybaige.rf.gd/?i=1)
-
+  
+- ⚡ Fun fact **My keyboard and I have an unbreakable bond!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
