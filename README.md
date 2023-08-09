@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **sukhmangill977@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Sukhmangill977/devops-gndec/blob/main/Sukhman/sukhman's%20resume.html](https://github.com/Sukhmangill977/devops-gndec/blob/main/Sukhman/sukhman's%20resume.html)
+- 📄 Know about my experiences [http://classybaige.rf.gd/?i=1](http://classybaige.rf.gd/?i=1)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
