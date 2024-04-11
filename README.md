@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhmangill977" alt="sukhmangill977" /></a> </p>
 
-- 🔭 I’m currently working on [text summarizer](https://github.com/Sukhmangill977/text_summarizer)
-
-- 🌱 I’m currently learning **Javascript**
+- 🔭 I’m currently working on [ED-connect]((https://github.com/Sukhmangill977/Academics))
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sukhmangill977](https://github.com/Sukhmangill977)
 
-- 💬 Ask me about **html,css,c,c++,python,photography**
+- 💬 Ask me about **html,css,c,c++,python,photography**,reactjs
 
 - 📫 How to reach me **sukhmangill977@gmail.com**
 
