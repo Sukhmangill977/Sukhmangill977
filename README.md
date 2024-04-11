@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sukhmangill977@gmail.com**
 
-- 📄 Know about my experiences [http://classybaige.rf.gd/?i=1](http://classybaige.rf.gd/?i=1)
+- 📄 Know about my experiences [http://classybaige.rf.gd/?i=1]([http://classybaige.rf.gd/?i=1](https://portfolio-sukhman.vercel.app/))
   
 - ⚡ Fun fact **My keyboard and I have an unbreakable bond!**
 
